@@ -82,6 +82,17 @@ h1{
     margin-bottom: 5px;
 
 }
+.footer {
+  display: block;
+  width: 100%;
+  height: 40px;
+  background-color: #d903f5;
+  text-align: center;
+  padding-top: 10px;
+  margin: 0px 0px 0px 0px;
+  color: #9c1018;
+}
+
     </style>
 </head>
 <body>
@@ -175,15 +186,17 @@ h1{
       
         </script>     
 
-    
+<div class="footer">
+ Developed by Manoj Choudhary V.
+</div>   
 </body>
 </html>
 ```
 
 ## OUTPUT:
 
-![git logo](clientoutput1.png)
-![git logo](clientoutput2.png)
+![git logo](client.png)
+![git logo](client1.png)
 
 ## Result:
 
